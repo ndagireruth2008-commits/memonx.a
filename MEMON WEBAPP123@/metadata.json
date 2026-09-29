@@ -1,0 +1,6 @@
+{
+  "name": "Memon Xule",
+  "description": "School e-voting platform with automated pupil voter ID generation, candidate setup, secret ballot voting, and secure projector results display.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
